@@ -1,4 +1,4 @@
-# How to handle exception in Spring Boot
+# How to add swagger to spring boot
 
 [![Java: 17](https://img.shields.io/badge/Java-17+-green)](#)
 [![Spring Boot: 3.0](https://img.shields.io/badge/Spring--Boot-3.0+-red)](#)
@@ -8,7 +8,7 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7T7MMEhY8zYd6ekbDRdIhw?style=social)](http://www.youtube.com/channel/UC7T7MMEhY8zYd6ekbDRdIhw?sub_confirmation=1)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7T7MMEhY8zYd6ekbDRdIhw?style=social)](http://www.youtube.com/channel/UC7T7MMEhY8zYd6ekbDRdIhw?sub_confirmation=1)
 
-[![YouTube Video](https://img.youtube.com/vi/9_ZTiDlcHQs/0.jpg)](https://www.youtube.com/watch?v=9_ZTiDlcHQs)
+[![YouTube Video](https://img.youtube.com/vi/f0aliuJNt4o/0.jpg)](https://www.youtube.com/watch?v=f0aliuJNt4o)
 
 ## Prerequisites
 - JDK 17+
